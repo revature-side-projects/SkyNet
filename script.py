@@ -20,6 +20,7 @@ since = ""
 until = ""
 
 dateformat = "%Y-%m-%dT%H:%M:%SZ"
+print(len(sys.argv))
 
 if len(sys.argv) >= 2:
 

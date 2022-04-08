@@ -90,5 +90,4 @@ Checking repo: tugba_ozden_p2
     'tugbaozdn': {'linesAdded': 817, 'linesRemoved': 9},
     'web-flow': {'linesAdded': 58, 'linesRemoved': 1},
     'zephyrzambrano': {'linesAdded': 4591, 'linesRemoved': 0}}
-    
 ```
